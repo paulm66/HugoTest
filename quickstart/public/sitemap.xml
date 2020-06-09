@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/home/paul/webpages/hugo/example/quickstart/public/</loc>
+    <lastmod>2020-06-07T21:09:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/home/paul/webpages/hugo/example/quickstart/public/posts/my-first-post/</loc>
+    <lastmod>2020-06-07T21:09:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/home/paul/webpages/hugo/example/quickstart/public/posts/</loc>
+    <lastmod>2020-06-07T21:09:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/home/paul/webpages/hugo/example/quickstart/public/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/home/paul/webpages/hugo/example/quickstart/public/tags/</loc>
+  </url>
+  
+</urlset>
